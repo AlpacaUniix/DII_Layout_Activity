@@ -1,0 +1,34 @@
+table,
+th,
+td {
+    border: 2px solid red;
+    padding: 3px 3px 3px 3px;
+    text-align: center;
+    color: skyblue;
+}
+
+table {
+    width: 50%;
+}
+
+th {
+    height: 50px;
+}
+
+td {
+    margin: 10px;
+    padding: 10px;
+    width: 20%;
+}
+
+.td1 {
+    padding: 25% 5px 25% 5px;
+}
+
+.td2 {
+    width: 45%;
+}
+
+.td3 {
+    padding: 25% 5px 25% 5px;
+}
