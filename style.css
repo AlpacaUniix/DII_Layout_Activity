@@ -8,11 +8,15 @@ td {
 }
 
 table {
-    width: 50%;
+    width: 30%;
 }
 
 th {
     height: 50px;
+}
+
+tr {
+    padding: 3px 3px 3px 3px;
 }
 
 td {
